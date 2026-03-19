@@ -1,0 +1,9 @@
+AWS Resource Tracker
+----------------------
+EC2 Instances:
+i-09ced5c1886732747
+----------------------
+S3 Buckets:
+----------------------
+IAM Users:
+user2	user5	user6
